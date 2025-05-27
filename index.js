@@ -23,7 +23,7 @@ switch(comando1){
  });
   break
 
-   /* case "POST":
+    case "POST":
         
         const product = { title: comando3, price: comando4, description:comando5};
         fetch('https://fakestoreapi.com/products', {
@@ -36,7 +36,7 @@ switch(comando1){
        .then(data => console.log(data));
 
 
-  break*/
+  break
 
    /* case "PRODUCTO_ID":
         
