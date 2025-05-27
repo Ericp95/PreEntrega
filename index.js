@@ -25,7 +25,7 @@ switch(comando1){
 
     case "POST":
         
-        const product = { title: comando3, price: comando4, description:comando5};
+        const product = { title: comando3, price: comando4, category:comando5};
         fetch('https://fakestoreapi.com/products', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
