@@ -49,14 +49,14 @@ switch(comando1){
 
 break
 
-/*  case "DELETE":
+  case "DELETE":
     fetch(`https://fakestoreapi.com/products/${comando7}`, {
      method: 'DELETE'})
 
-  .then(response => response.json())
-  .then(data => console.log("el producto ha sido eliminado correctamente"));
+    .then(response => response.json())
+    .then(data => console.log("el producto ha sido eliminado correctamente"));
 
-break*/
+break
 
 
 }
