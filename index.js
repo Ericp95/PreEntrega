@@ -38,7 +38,7 @@ switch(comando1){
 
   break
 
-   /* case "PRODUCTO_ID":
+    case "PRODUCTO_ID":
         
        fetch(`https://fakestoreapi.com/products/${comando6}`) //npm run start PRODUCTO_ID "ACA IRIA EL ID QUE SE QUIERE BUSCAR"
       .then(response =>response.json())
@@ -47,7 +47,7 @@ switch(comando1){
 
 
 
-break*/
+break
 
 /*  case "DELETE":
     fetch(`https://fakestoreapi.com/products/${comando7}`, {
