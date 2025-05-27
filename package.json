@@ -5,9 +5,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-     "start": "node index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-fetch": "^9.0.10",
+    "node-fetch": "^3.3.2"
+  }
 }
